@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/RynzXde/ServerMenu
+build-by-default: true
+branches:
+- master
+projects:
+  libServerMenu:
+    path: ""
+    model: virion
+    type: library
+...
